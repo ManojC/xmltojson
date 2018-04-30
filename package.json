@@ -1,0 +1,29 @@
+{
+    "name": "xmltojson",
+    "version": "1.0.0",
+    "description": "node application to convert XML to JSON using xml-js NPM package",
+    "main": "server.js",
+    "scripts": {
+        "start": "node ./src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ManojC/xmltojson.git"
+    },
+    "keywords": [
+        "node",
+        "npm",
+        "xmltojson",
+        "javascript"
+    ],
+    "author": "manojc (chalodem@gmail.com)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ManojC/xmltojson/issues"
+    },
+    "homepage": "https://github.com/ManojC/xmltojson#readme",
+    "dependencies": {
+        "express": "^4.16.3",
+        "xml-js": "^1.6.2"
+    }
+}
