@@ -24,6 +24,7 @@
     "homepage": "https://github.com/ManojC/xmltojson#readme",
     "dependencies": {
         "express": "^4.16.3",
+        "xml-flow": "^1.0.2",
         "xml-js": "^1.6.2"
     }
 }
